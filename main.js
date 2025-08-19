@@ -1,6 +1,6 @@
 // KV Clipboard
 
-const KVCacheURL = "https://xn--6ortd175cioc5r3b001a.7.7.cp.005515.xyz/";
+const KVCacheURL = "https://7.7.7.cp.005515.xyz/";
 // const KVCacheURL = "http://localhost:3000";
 
 async function stringToUUID(str) {
